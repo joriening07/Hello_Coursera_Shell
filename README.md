@@ -1,3 +1,7 @@
-Title:Guessing_number_game
-Sat Sep  8 00:25:54 PDT 2018
-27 guessinggame.sh
+Title: Guessing number game
+
+**make date**:
+Sun Sep  9 18:36:26 PDT 2018
+
+**number of lines in guessinggame.sh:**
+      27
